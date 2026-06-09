@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @kartikayprasad
-- 👀 I’m interested in coding and data science
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on any project which can help me gain knowledge
-- 📫 How to reach me: Mail me, kartikayprasad@gmail.com
+# Hi, I'm Dr. Kartikay Prasad 👋
 
-<!---
-kartikayprasad/kartikayprasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Computational Biologist** based in India, focused on building reproducible 
+bioinformatics pipelines and applying machine learning to genomics problems.
+
+---
+
+## 🔬 Research Interests
+- Next-Generation Sequencing (NGS) pipeline development
+- Genomics & transcriptomics data analysis
+- Machine learning applications in biology
+- Reproducible and containerized bioinformatics workflows
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Languages:** Python · R · Bash  
+**Bioinformatics:** BWA · GATK · STAR · Samtools · FastQC · Trimmomatic  
+**ML/Data:** Scikit-learn · TensorFlow · Pandas · NumPy  
+**Workflow:** Snakemake · Nextflow · Docker · Git  
+**Platforms:** Linux · HPC · GitHub Actions  
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🧬 [NGS Pipeline](#) | Automated end-to-end NGS analysis pipeline (coming soon) |
+| 🧠 [Brain CT Tumor Prediction](https://github.com/kartikayprasad/Brain_CT_scan_prediction_model) | CNN model for brain tumor detection from CT scans |
+
+---
+
+## 📫 Connect With Me
+- 📧 kartikayprasad@gmail.com
+
+---
+
+*"Making biology computable, one pipeline at a time."*
